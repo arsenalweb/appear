@@ -246,3 +246,5 @@ appear = (function(){
     }()(obj));
   };
 }());
+
+module.exports = appear;
